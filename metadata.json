@@ -1,0 +1,6 @@
+{
+  "name": "Kyudai Kai",
+  "description": "Sistema de matrícula (datos personales, historial médico y autorizaciones) y asistencia semanal para la Escuela de Karate Kyudai Kai, San Miguel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
